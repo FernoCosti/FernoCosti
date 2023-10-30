@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... WEB DEVELOPMENT, JAVA
 - 🌱 I’m currently learning ... JAVA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... ferno.costi@gmail.com
 
 <!---
 FernoCosti/FernoCosti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
